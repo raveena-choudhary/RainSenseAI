@@ -1,0 +1,9 @@
+To use RainSenseAI, follow these steps:
+
+Clone the repository: git clone https://github.com/your-username/RainSenseAI.git
+Install the required dependencies such as numpy, matplotlib, tabulate, seaborn, sklearn, scipy, torch, thop -> local executionh
+With command, pip install thop....
+It depends on the system and environment where it is being run.
+For google colab, only install thop to run
+Run the file sequentially
+Make sure to have Python 3.7 or higher installed on your system.

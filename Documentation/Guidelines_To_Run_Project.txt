@@ -1,0 +1,15 @@
+1) Run the project in Google Colab.
+2) Import weather.csv file in Colab by uploading the file. Please note that this file will be present in Colab till runtime.
+So, if you are running the project again after refresh, then again you have to upload file weather.csv to Colab.
+3) Project starts running from first cell which will install the required dependencies.
+4) Cell 1-15 are used for all three models, so these cells are run only once for data preprocessing and cleaning.
+5) Now, first we have implemented Decision Tree - Supervised learning.
+6) Please run the below cells under the heading Decision Tree Classification model
+7) Few cells will provide you the statistics with no hyper parameters included
+8) Further, we have included hyper parameters.
+9) Confusion matrix and t-SNE are displayed sequentially for Decision Tree.
+10) Moving to Semi Supervised learning. Before running the cells below the heading Semi-supervised Learning with Decision Trees. Please run the cell above Semi supervised learning to create train and test datasets.
+11) Further, confusion matrix and t-SNE will be displayed.
+12) Now, to run neural networks with RNN, everything under this heading will correpsond to RNN model implementation.
+13) Last but not the least, you can verify confusion matrix and t-SNE for RNN.
+14) Happy Testing!!
